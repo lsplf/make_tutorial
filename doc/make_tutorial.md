@@ -34,3 +34,6 @@
 2. 'xxx.h":  首先在当前目录以及-I指定的目录搜索，最后再到系统默认的路径搜索。
 3. 指定头文件目录： -I/INC_DIR/
 4. 指定头文件： -include xxx.h
+
+### 参考
+[A Simple Makefile Tutorial](https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/)
